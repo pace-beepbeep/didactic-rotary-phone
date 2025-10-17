@@ -1,0 +1,1202 @@
+{
+  "Rekayasa Perangkat Lunak": [
+    {
+      "nama": "Hadi Rekayasa",
+      "namaProject": "Sistem Informasi #1",
+      "deskripsiSingkat": "Sistem Informasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Grand Hyatt",
+      "fotoProject": "https://picsum.photos/seed/rek1/800/600",
+      "deskripsiLengkap": "Sistem Informasi #1 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Rekayasa",
+      "namaProject": "Sistem Informasi #2",
+      "deskripsiSingkat": "Sistem Informasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "NetCore Provider",
+      "fotoProject": "https://picsum.photos/seed/rek2/800/600",
+      "deskripsiLengkap": "Sistem Informasi #2 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Citra Rekayasa",
+      "namaProject": "Sistem Informasi #3",
+      "deskripsiSingkat": "Sistem Informasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "NetCore Provider",
+      "fotoProject": "https://picsum.photos/seed/rek3/800/600",
+      "deskripsiLengkap": "Sistem Informasi #3 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rhea Rekayasa",
+      "namaProject": "Sistem Otomasi #4",
+      "deskripsiSingkat": "Sistem Otomasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Tech Solutions Inc.",
+      "fotoProject": "https://picsum.photos/seed/rek4/800/600",
+      "deskripsiLengkap": "Sistem Otomasi #4 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lala Rekayasa",
+      "namaProject": "Dashboard Admin #5",
+      "deskripsiSingkat": "Dashboard Admin untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek5/800/600",
+      "deskripsiLengkap": "Dashboard Admin #5 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ahmad Rekayasa",
+      "namaProject": "Aplikasi Mobile #6",
+      "deskripsiSingkat": "Aplikasi Mobile untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek6/800/600",
+      "deskripsiLengkap": "Aplikasi Mobile #6 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Joko Rekayasa",
+      "namaProject": "Aplikasi Mobile #7",
+      "deskripsiSingkat": "Aplikasi Mobile untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek7/800/600",
+      "deskripsiLengkap": "Aplikasi Mobile #7 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Riko Rekayasa",
+      "namaProject": "Sistem Informasi #8",
+      "deskripsiSingkat": "Sistem Informasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek8/800/600",
+      "deskripsiLengkap": "Sistem Informasi #8 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Citra Rekayasa",
+      "namaProject": "Dashboard Admin #9",
+      "deskripsiSingkat": "Dashboard Admin untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Solusi Komunika",
+      "fotoProject": "https://picsum.photos/seed/rek9/800/600",
+      "deskripsiLengkap": "Dashboard Admin #9 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fani Rekayasa",
+      "namaProject": "Sistem Otomasi #10",
+      "deskripsiSingkat": "Sistem Otomasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek10/800/600",
+      "deskripsiLengkap": "Sistem Otomasi #10 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Mira Rekayasa",
+      "namaProject": "Sistem Informasi #11",
+      "deskripsiSingkat": "Sistem Informasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek11/800/600",
+      "deskripsiLengkap": "Sistem Informasi #11 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fani Rekayasa",
+      "namaProject": "Aplikasi Mobile #12",
+      "deskripsiSingkat": "Aplikasi Mobile untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek12/800/600",
+      "deskripsiLengkap": "Aplikasi Mobile #12 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Bayu Rekayasa",
+      "namaProject": "Platform E-Commerce #13",
+      "deskripsiSingkat": "Platform E-Commerce untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek13/800/600",
+      "deskripsiLengkap": "Platform E-Commerce #13 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Nino Rekayasa",
+      "namaProject": "Platform E-Commerce #14",
+      "deskripsiSingkat": "Platform E-Commerce untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "NetCore Provider",
+      "fotoProject": "https://picsum.photos/seed/rek14/800/600",
+      "deskripsiLengkap": "Platform E-Commerce #14 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lala Rekayasa",
+      "namaProject": "Aplikasi Mobile #15",
+      "deskripsiSingkat": "Aplikasi Mobile untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Hotel Nusantara",
+      "fotoProject": "https://picsum.photos/seed/rek15/800/600",
+      "deskripsiLengkap": "Aplikasi Mobile #15 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sandi Rekayasa",
+      "namaProject": "Sistem Otomasi #16",
+      "deskripsiSingkat": "Sistem Otomasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek16/800/600",
+      "deskripsiLengkap": "Sistem Otomasi #16 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Olivia Rekayasa",
+      "namaProject": "Sistem Informasi #17",
+      "deskripsiSingkat": "Sistem Informasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek17/800/600",
+      "deskripsiLengkap": "Sistem Informasi #17 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Eka Rekayasa",
+      "namaProject": "Aplikasi Mobile #18",
+      "deskripsiSingkat": "Aplikasi Mobile untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "PT Inovasi",
+      "fotoProject": "https://picsum.photos/seed/rek18/800/600",
+      "deskripsiLengkap": "Aplikasi Mobile #18 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fajar Rekayasa",
+      "namaProject": "Dashboard Admin #19",
+      "deskripsiSingkat": "Dashboard Admin untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek19/800/600",
+      "deskripsiLengkap": "Dashboard Admin #19 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Rekayasa",
+      "namaProject": "Aplikasi Mobile #20",
+      "deskripsiSingkat": "Aplikasi Mobile untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek20/800/600",
+      "deskripsiLengkap": "Aplikasi Mobile #20 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rafi Rekayasa",
+      "namaProject": "Sistem Otomasi #21",
+      "deskripsiSingkat": "Sistem Otomasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Pixel",
+      "fotoProject": "https://picsum.photos/seed/rek21/800/600",
+      "deskripsiLengkap": "Sistem Otomasi #21 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Rekayasa",
+      "namaProject": "Sistem Otomasi #22",
+      "deskripsiSingkat": "Sistem Otomasi untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/rek22/800/600",
+      "deskripsiLengkap": "Sistem Otomasi #22 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Rekayasa Perangkat Lunak.",
+      "linkProject": "#"
+    }
+  ],
+  "Teknik Komputer dan Jaringan": [
+    {
+      "nama": "Hadi Teknik",
+      "namaProject": "Setup Server #1",
+      "deskripsiSingkat": "Setup Server untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek1/800/600",
+      "deskripsiLengkap": "Setup Server #1 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Riko Teknik",
+      "namaProject": "Sistem Hotspot #2",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek2/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #2 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Gilang Teknik",
+      "namaProject": "Monitoring Jaringan #3",
+      "deskripsiSingkat": "Monitoring Jaringan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek3/800/600",
+      "deskripsiLengkap": "Monitoring Jaringan #3 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Wawan Teknik",
+      "namaProject": "Monitoring Jaringan #4",
+      "deskripsiSingkat": "Monitoring Jaringan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Marriott Hotels",
+      "fotoProject": "https://picsum.photos/seed/tek4/800/600",
+      "deskripsiLengkap": "Monitoring Jaringan #4 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Bayu Teknik",
+      "namaProject": "Monitoring Jaringan #5",
+      "deskripsiSingkat": "Monitoring Jaringan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Grand Hyatt",
+      "fotoProject": "https://picsum.photos/seed/tek5/800/600",
+      "deskripsiLengkap": "Monitoring Jaringan #5 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rhea Teknik",
+      "namaProject": "Monitoring Jaringan #6",
+      "deskripsiSingkat": "Monitoring Jaringan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Marriott Hotels",
+      "fotoProject": "https://picsum.photos/seed/tek6/800/600",
+      "deskripsiLengkap": "Monitoring Jaringan #6 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Joko Teknik",
+      "namaProject": "Implementasi VPN #7",
+      "deskripsiSingkat": "Implementasi VPN untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek7/800/600",
+      "deskripsiLengkap": "Implementasi VPN #7 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Vina Teknik",
+      "namaProject": "Sistem Hotspot #8",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek8/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #8 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Umar Teknik",
+      "namaProject": "Setup Server #9",
+      "deskripsiSingkat": "Setup Server untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek9/800/600",
+      "deskripsiLengkap": "Setup Server #9 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fani Teknik",
+      "namaProject": "Sistem Hotspot #10",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "NetCore Provider",
+      "fotoProject": "https://picsum.photos/seed/tek10/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #10 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Teknik",
+      "namaProject": "Sistem Hotspot #11",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek11/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #11 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hendra Teknik",
+      "namaProject": "Firewall & Keamanan #12",
+      "deskripsiSingkat": "Firewall & Keamanan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/tek12/800/600",
+      "deskripsiLengkap": "Firewall & Keamanan #12 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Umar Teknik",
+      "namaProject": "Sistem Hotspot #13",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Hotel Nusantara",
+      "fotoProject": "https://picsum.photos/seed/tek13/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #13 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hadi Teknik",
+      "namaProject": "Setup Server #14",
+      "deskripsiSingkat": "Setup Server untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek14/800/600",
+      "deskripsiLengkap": "Setup Server #14 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Budi Teknik",
+      "namaProject": "Firewall & Keamanan #15",
+      "deskripsiSingkat": "Firewall & Keamanan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Solusi Data",
+      "fotoProject": "https://picsum.photos/seed/tek15/800/600",
+      "deskripsiLengkap": "Firewall & Keamanan #15 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ahmad Teknik",
+      "namaProject": "Monitoring Jaringan #16",
+      "deskripsiSingkat": "Monitoring Jaringan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek16/800/600",
+      "deskripsiLengkap": "Monitoring Jaringan #16 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Citra Teknik",
+      "namaProject": "Implementasi VPN #17",
+      "deskripsiSingkat": "Implementasi VPN untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "NetCore Provider",
+      "fotoProject": "https://picsum.photos/seed/tek17/800/600",
+      "deskripsiLengkap": "Implementasi VPN #17 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sandi Teknik",
+      "namaProject": "Sistem Hotspot #18",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "GameDev Studio",
+      "fotoProject": "https://picsum.photos/seed/tek18/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #18 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Tasya Teknik",
+      "namaProject": "Setup Server #19",
+      "deskripsiSingkat": "Setup Server untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "AgroFoods Co.",
+      "fotoProject": "https://picsum.photos/seed/tek19/800/600",
+      "deskripsiLengkap": "Setup Server #19 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Gita Teknik",
+      "namaProject": "Monitoring Jaringan #20",
+      "deskripsiSingkat": "Monitoring Jaringan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "The Steak House",
+      "fotoProject": "https://picsum.photos/seed/tek20/800/600",
+      "deskripsiLengkap": "Monitoring Jaringan #20 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Wulan Teknik",
+      "namaProject": "Sistem Hotspot #21",
+      "deskripsiSingkat": "Sistem Hotspot untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/tek21/800/600",
+      "deskripsiLengkap": "Sistem Hotspot #21 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sari Teknik",
+      "namaProject": "Implementasi VPN #22",
+      "deskripsiSingkat": "Implementasi VPN untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Solusi Komunika",
+      "fotoProject": "https://picsum.photos/seed/tek22/800/600",
+      "deskripsiLengkap": "Implementasi VPN #22 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Teknik Komputer dan Jaringan.",
+      "linkProject": "#"
+    }
+  ],
+  "Desain Komunikasi Visual": [
+    {
+      "nama": "Mira Desain",
+      "namaProject": "Packaging #1",
+      "deskripsiSingkat": "Packaging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Creative Studio",
+      "fotoProject": "https://picsum.photos/seed/des1/800/600",
+      "deskripsiLengkap": "Packaging #1 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lina Desain",
+      "namaProject": "Desain UI/UX #2",
+      "deskripsiSingkat": "Desain UI/UX untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des2/800/600",
+      "deskripsiLengkap": "Desain UI/UX #2 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Nadia Desain",
+      "namaProject": "Packaging #3",
+      "deskripsiSingkat": "Packaging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des3/800/600",
+      "deskripsiLengkap": "Packaging #3 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fani Desain",
+      "namaProject": "Identitas Visual #4",
+      "deskripsiSingkat": "Identitas Visual untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/des4/800/600",
+      "deskripsiLengkap": "Identitas Visual #4 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Tasya Desain",
+      "namaProject": "Identitas Visual #5",
+      "deskripsiSingkat": "Identitas Visual untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Pixel",
+      "fotoProject": "https://picsum.photos/seed/des5/800/600",
+      "deskripsiLengkap": "Identitas Visual #5 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Riko Desain",
+      "namaProject": "Branding #6",
+      "deskripsiSingkat": "Branding untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Grand Hyatt",
+      "fotoProject": "https://picsum.photos/seed/des6/800/600",
+      "deskripsiLengkap": "Branding #6 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Tia Desain",
+      "namaProject": "Fotografi Produk #7",
+      "deskripsiSingkat": "Fotografi Produk untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Solusi Data",
+      "fotoProject": "https://picsum.photos/seed/des7/800/600",
+      "deskripsiLengkap": "Fotografi Produk #7 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Mira Desain",
+      "namaProject": "Desain UI/UX #8",
+      "deskripsiSingkat": "Desain UI/UX untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des8/800/600",
+      "deskripsiLengkap": "Desain UI/UX #8 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Vina Desain",
+      "namaProject": "Branding #9",
+      "deskripsiSingkat": "Branding untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "PT Inovasi",
+      "fotoProject": "https://picsum.photos/seed/des9/800/600",
+      "deskripsiLengkap": "Branding #9 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rhea Desain",
+      "namaProject": "Packaging #10",
+      "deskripsiSingkat": "Packaging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des10/800/600",
+      "deskripsiLengkap": "Packaging #10 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lina Desain",
+      "namaProject": "Branding #11",
+      "deskripsiSingkat": "Branding untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Kreasi",
+      "fotoProject": "https://picsum.photos/seed/des11/800/600",
+      "deskripsiLengkap": "Branding #11 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sari Desain",
+      "namaProject": "Branding #12",
+      "deskripsiSingkat": "Branding untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des12/800/600",
+      "deskripsiLengkap": "Branding #12 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fani Desain",
+      "namaProject": "Fotografi Produk #13",
+      "deskripsiSingkat": "Fotografi Produk untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des13/800/600",
+      "deskripsiLengkap": "Fotografi Produk #13 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rina Desain",
+      "namaProject": "Identitas Visual #14",
+      "deskripsiSingkat": "Identitas Visual untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des14/800/600",
+      "deskripsiLengkap": "Identitas Visual #14 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sari Desain",
+      "namaProject": "Identitas Visual #15",
+      "deskripsiSingkat": "Identitas Visual untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des15/800/600",
+      "deskripsiLengkap": "Identitas Visual #15 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Eka Desain",
+      "namaProject": "Branding #16",
+      "deskripsiSingkat": "Branding untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des16/800/600",
+      "deskripsiLengkap": "Branding #16 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Eka Desain",
+      "namaProject": "Packaging #17",
+      "deskripsiSingkat": "Packaging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des17/800/600",
+      "deskripsiLengkap": "Packaging #17 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Desain",
+      "namaProject": "Desain UI/UX #18",
+      "deskripsiSingkat": "Desain UI/UX untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des18/800/600",
+      "deskripsiLengkap": "Desain UI/UX #18 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Tia Desain",
+      "namaProject": "Identitas Visual #19",
+      "deskripsiSingkat": "Identitas Visual untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des19/800/600",
+      "deskripsiLengkap": "Identitas Visual #19 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hendra Desain",
+      "namaProject": "Branding #20",
+      "deskripsiSingkat": "Branding untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des20/800/600",
+      "deskripsiLengkap": "Branding #20 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Desain",
+      "namaProject": "Desain UI/UX #21",
+      "deskripsiSingkat": "Desain UI/UX untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Solusi Komunika",
+      "fotoProject": "https://picsum.photos/seed/des21/800/600",
+      "deskripsiLengkap": "Desain UI/UX #21 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sandi Desain",
+      "namaProject": "Desain UI/UX #22",
+      "deskripsiSingkat": "Desain UI/UX untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/des22/800/600",
+      "deskripsiLengkap": "Desain UI/UX #22 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Desain Komunikasi Visual.",
+      "linkProject": "#"
+    }
+  ],
+  "Animasi": [
+    {
+      "nama": "Nino Animasi",
+      "namaProject": "Motion Graphic #1",
+      "deskripsiSingkat": "Motion Graphic untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani1/800/600",
+      "deskripsiLengkap": "Motion Graphic #1 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Doni Animasi",
+      "namaProject": "Film Pendek 3D #2",
+      "deskripsiSingkat": "Film Pendek 3D untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani2/800/600",
+      "deskripsiLengkap": "Film Pendek 3D #2 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ahmad Animasi",
+      "namaProject": "Motion Graphic #3",
+      "deskripsiSingkat": "Motion Graphic untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Creative Studio",
+      "fotoProject": "https://picsum.photos/seed/ani3/800/600",
+      "deskripsiLengkap": "Motion Graphic #3 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Nadia Animasi",
+      "namaProject": "VFX Short #4",
+      "deskripsiSingkat": "VFX Short untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani4/800/600",
+      "deskripsiLengkap": "VFX Short #4 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hadi Animasi",
+      "namaProject": "Film Pendek 3D #5",
+      "deskripsiSingkat": "Film Pendek 3D untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani5/800/600",
+      "deskripsiLengkap": "Film Pendek 3D #5 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Zaki Animasi",
+      "namaProject": "VFX Short #6",
+      "deskripsiSingkat": "VFX Short untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Creative Studio",
+      "fotoProject": "https://picsum.photos/seed/ani6/800/600",
+      "deskripsiLengkap": "VFX Short #6 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ika Animasi",
+      "namaProject": "Film Pendek 3D #7",
+      "deskripsiSingkat": "Film Pendek 3D untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani7/800/600",
+      "deskripsiLengkap": "Film Pendek 3D #7 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Yulia Animasi",
+      "namaProject": "Animasi 2D Edukatif #8",
+      "deskripsiSingkat": "Animasi 2D Edukatif untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani8/800/600",
+      "deskripsiLengkap": "Animasi 2D Edukatif #8 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Gilang Animasi",
+      "namaProject": "Karakter Rigging #9",
+      "deskripsiSingkat": "Karakter Rigging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Kreasi",
+      "fotoProject": "https://picsum.photos/seed/ani9/800/600",
+      "deskripsiLengkap": "Karakter Rigging #9 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Kevin Animasi",
+      "namaProject": "Animasi 2D Edukatif #10",
+      "deskripsiSingkat": "Animasi 2D Edukatif untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/ani10/800/600",
+      "deskripsiLengkap": "Animasi 2D Edukatif #10 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Wawan Animasi",
+      "namaProject": "Karakter Rigging #11",
+      "deskripsiSingkat": "Karakter Rigging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Pattiserie de Rina",
+      "fotoProject": "https://picsum.photos/seed/ani11/800/600",
+      "deskripsiLengkap": "Karakter Rigging #11 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Gita Animasi",
+      "namaProject": "Karakter Rigging #12",
+      "deskripsiSingkat": "Karakter Rigging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Startup Maju",
+      "fotoProject": "https://picsum.photos/seed/ani12/800/600",
+      "deskripsiLengkap": "Karakter Rigging #12 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Mira Animasi",
+      "namaProject": "Karakter Rigging #13",
+      "deskripsiSingkat": "Karakter Rigging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "The Steak House",
+      "fotoProject": "https://picsum.photos/seed/ani13/800/600",
+      "deskripsiLengkap": "Karakter Rigging #13 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Olivia Animasi",
+      "namaProject": "Film Pendek 3D #14",
+      "deskripsiSingkat": "Film Pendek 3D untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani14/800/600",
+      "deskripsiLengkap": "Film Pendek 3D #14 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sandi Animasi",
+      "namaProject": "Film Pendek 3D #15",
+      "deskripsiSingkat": "Film Pendek 3D untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "The Steak House",
+      "fotoProject": "https://picsum.photos/seed/ani15/800/600",
+      "deskripsiLengkap": "Film Pendek 3D #15 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lala Animasi",
+      "namaProject": "Motion Graphic #16",
+      "deskripsiSingkat": "Motion Graphic untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani16/800/600",
+      "deskripsiLengkap": "Motion Graphic #16 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lina Animasi",
+      "namaProject": "VFX Short #17",
+      "deskripsiSingkat": "VFX Short untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani17/800/600",
+      "deskripsiLengkap": "VFX Short #17 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rafi Animasi",
+      "namaProject": "Motion Graphic #18",
+      "deskripsiSingkat": "Motion Graphic untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani18/800/600",
+      "deskripsiLengkap": "Motion Graphic #18 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Riko Animasi",
+      "namaProject": "VFX Short #19",
+      "deskripsiSingkat": "VFX Short untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani19/800/600",
+      "deskripsiLengkap": "VFX Short #19 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rafi Animasi",
+      "namaProject": "Film Pendek 3D #20",
+      "deskripsiSingkat": "Film Pendek 3D untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Sahabat Digital",
+      "fotoProject": "https://picsum.photos/seed/ani20/800/600",
+      "deskripsiLengkap": "Film Pendek 3D #20 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Zaki Animasi",
+      "namaProject": "Karakter Rigging #21",
+      "deskripsiSingkat": "Karakter Rigging untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/ani21/800/600",
+      "deskripsiLengkap": "Karakter Rigging #21 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hadi Animasi",
+      "namaProject": "Motion Graphic #22",
+      "deskripsiSingkat": "Motion Graphic untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Marriott Hotels",
+      "fotoProject": "https://picsum.photos/seed/ani22/800/600",
+      "deskripsiLengkap": "Motion Graphic #22 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Animasi.",
+      "linkProject": "#"
+    }
+  ],
+  "Kuliner": [
+    {
+      "nama": "Vina Kuliner",
+      "namaProject": "Analisis Food Cost #1",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Marriott Hotels",
+      "fotoProject": "https://picsum.photos/seed/kul1/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #1 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Mira Kuliner",
+      "namaProject": "Analisis Food Cost #2",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul2/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #2 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sari Kuliner",
+      "namaProject": "Packaging Makanan #3",
+      "deskripsiSingkat": "Packaging Makanan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul3/800/600",
+      "deskripsiLengkap": "Packaging Makanan #3 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Nino Kuliner",
+      "namaProject": "Analisis Food Cost #4",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul4/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #4 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Bayu Kuliner",
+      "namaProject": "Analisis Food Cost #5",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "GameDev Studio",
+      "fotoProject": "https://picsum.photos/seed/kul5/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #5 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Kevin Kuliner",
+      "namaProject": "Inovasi Resep #6",
+      "deskripsiSingkat": "Inovasi Resep untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul6/800/600",
+      "deskripsiLengkap": "Inovasi Resep #6 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fani Kuliner",
+      "namaProject": "Menu Katering #7",
+      "deskripsiSingkat": "Menu Katering untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Marriott Hotels",
+      "fotoProject": "https://picsum.photos/seed/kul7/800/600",
+      "deskripsiLengkap": "Menu Katering #7 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Joko Kuliner",
+      "namaProject": "Inovasi Resep #8",
+      "deskripsiSingkat": "Inovasi Resep untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Pattiserie de Rina",
+      "fotoProject": "https://picsum.photos/seed/kul8/800/600",
+      "deskripsiLengkap": "Inovasi Resep #8 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Eka Kuliner",
+      "namaProject": "Analisis Food Cost #9",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/kul9/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #9 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Riko Kuliner",
+      "namaProject": "Analisis Food Cost #10",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Pixel",
+      "fotoProject": "https://picsum.photos/seed/kul10/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #10 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Ahmad Kuliner",
+      "namaProject": "Inovasi Resep #11",
+      "deskripsiSingkat": "Inovasi Resep untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/kul11/800/600",
+      "deskripsiLengkap": "Inovasi Resep #11 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hendra Kuliner",
+      "namaProject": "Analisis Food Cost #12",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Startup Maju",
+      "fotoProject": "https://picsum.photos/seed/kul12/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #12 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hadi Kuliner",
+      "namaProject": "Analisis Food Cost #13",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul13/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #13 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Nadia Kuliner",
+      "namaProject": "Packaging Makanan #14",
+      "deskripsiSingkat": "Packaging Makanan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/kul14/800/600",
+      "deskripsiLengkap": "Packaging Makanan #14 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Kevin Kuliner",
+      "namaProject": "Analisis Food Cost #15",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Hotel Nusantara",
+      "fotoProject": "https://picsum.photos/seed/kul15/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #15 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sandi Kuliner",
+      "namaProject": "Packaging Makanan #16",
+      "deskripsiSingkat": "Packaging Makanan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul16/800/600",
+      "deskripsiLengkap": "Packaging Makanan #16 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Nadia Kuliner",
+      "namaProject": "Inovasi Resep #17",
+      "deskripsiSingkat": "Inovasi Resep untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul17/800/600",
+      "deskripsiLengkap": "Inovasi Resep #17 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Wawan Kuliner",
+      "namaProject": "Teknik Memasak #18",
+      "deskripsiSingkat": "Teknik Memasak untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Solusi Data",
+      "fotoProject": "https://picsum.photos/seed/kul18/800/600",
+      "deskripsiLengkap": "Teknik Memasak #18 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Joko Kuliner",
+      "namaProject": "Menu Katering #19",
+      "deskripsiSingkat": "Menu Katering untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Pixel",
+      "fotoProject": "https://picsum.photos/seed/kul19/800/600",
+      "deskripsiLengkap": "Menu Katering #19 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Eka Kuliner",
+      "namaProject": "Analisis Food Cost #20",
+      "deskripsiSingkat": "Analisis Food Cost untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "UI/UX Agency",
+      "fotoProject": "https://picsum.photos/seed/kul20/800/600",
+      "deskripsiLengkap": "Analisis Food Cost #20 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Wulan Kuliner",
+      "namaProject": "Inovasi Resep #21",
+      "deskripsiSingkat": "Inovasi Resep untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/kul21/800/600",
+      "deskripsiLengkap": "Inovasi Resep #21 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Budi Kuliner",
+      "namaProject": "Packaging Makanan #22",
+      "deskripsiSingkat": "Packaging Makanan untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/kul22/800/600",
+      "deskripsiLengkap": "Packaging Makanan #22 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Kuliner.",
+      "linkProject": "#"
+    }
+  ],
+  "Perhotelan": [
+    {
+      "nama": "Yulia Perhotelan",
+      "namaProject": "Manajemen Acara #1",
+      "deskripsiSingkat": "Manajemen Acara untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Pixel",
+      "fotoProject": "https://picsum.photos/seed/per1/800/600",
+      "deskripsiLengkap": "Manajemen Acara #1 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Fajar Perhotelan",
+      "namaProject": "SOP Front Office #2",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Cafe Kopi Kita",
+      "fotoProject": "https://picsum.photos/seed/per2/800/600",
+      "deskripsiLengkap": "SOP Front Office #2 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Budi Perhotelan",
+      "namaProject": "Strategi Digital Marketing #3",
+      "deskripsiSingkat": "Strategi Digital Marketing untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "UI/UX Agency",
+      "fotoProject": "https://picsum.photos/seed/per3/800/600",
+      "deskripsiLengkap": "Strategi Digital Marketing #3 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Bayu Perhotelan",
+      "namaProject": "SOP Front Office #4",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per4/800/600",
+      "deskripsiLengkap": "SOP Front Office #4 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Sari Perhotelan",
+      "namaProject": "Pelatihan SDM #5",
+      "deskripsiSingkat": "Pelatihan SDM untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per5/800/600",
+      "deskripsiLengkap": "Pelatihan SDM #5 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rafi Perhotelan",
+      "namaProject": "SOP Front Office #6",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per6/800/600",
+      "deskripsiLengkap": "SOP Front Office #6 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rina Perhotelan",
+      "namaProject": "Strategi Digital Marketing #7",
+      "deskripsiSingkat": "Strategi Digital Marketing untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "GameDev Studio",
+      "fotoProject": "https://picsum.photos/seed/per7/800/600",
+      "deskripsiLengkap": "Strategi Digital Marketing #7 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Vina Perhotelan",
+      "namaProject": "Manajemen Acara #8",
+      "deskripsiSingkat": "Manajemen Acara untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Grand Hyatt",
+      "fotoProject": "https://picsum.photos/seed/per8/800/600",
+      "deskripsiLengkap": "Manajemen Acara #8 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Rina Perhotelan",
+      "namaProject": "Paket Wisata #9",
+      "deskripsiSingkat": "Paket Wisata untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per9/800/600",
+      "deskripsiLengkap": "Paket Wisata #9 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Yulia Perhotelan",
+      "namaProject": "SOP Front Office #10",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per10/800/600",
+      "deskripsiLengkap": "SOP Front Office #10 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Putra Perhotelan",
+      "namaProject": "SOP Front Office #11",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Tech Solutions Inc.",
+      "fotoProject": "https://picsum.photos/seed/per11/800/600",
+      "deskripsiLengkap": "SOP Front Office #11 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Putra Perhotelan",
+      "namaProject": "SOP Front Office #12",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "AgroFoods Co.",
+      "fotoProject": "https://picsum.photos/seed/per12/800/600",
+      "deskripsiLengkap": "SOP Front Office #12 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Bayu Perhotelan",
+      "namaProject": "Manajemen Acara #13",
+      "deskripsiSingkat": "Manajemen Acara untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per13/800/600",
+      "deskripsiLengkap": "Manajemen Acara #13 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Kevin Perhotelan",
+      "namaProject": "Manajemen Acara #14",
+      "deskripsiSingkat": "Manajemen Acara untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per14/800/600",
+      "deskripsiLengkap": "Manajemen Acara #14 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Umar Perhotelan",
+      "namaProject": "Pelatihan SDM #15",
+      "deskripsiSingkat": "Pelatihan SDM untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Studio Pixel",
+      "fotoProject": "https://picsum.photos/seed/per15/800/600",
+      "deskripsiLengkap": "Pelatihan SDM #15 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Eka Perhotelan",
+      "namaProject": "Pelatihan SDM #16",
+      "deskripsiSingkat": "Pelatihan SDM untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per16/800/600",
+      "deskripsiLengkap": "Pelatihan SDM #16 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Hadi Perhotelan",
+      "namaProject": "Pelatihan SDM #17",
+      "deskripsiSingkat": "Pelatihan SDM untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "The Steak House",
+      "fotoProject": "https://picsum.photos/seed/per17/800/600",
+      "deskripsiLengkap": "Pelatihan SDM #17 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Zaki Perhotelan",
+      "namaProject": "Paket Wisata #18",
+      "deskripsiSingkat": "Paket Wisata untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per18/800/600",
+      "deskripsiLengkap": "Paket Wisata #18 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Wulan Perhotelan",
+      "namaProject": "Strategi Digital Marketing #19",
+      "deskripsiSingkat": "Strategi Digital Marketing untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per19/800/600",
+      "deskripsiLengkap": "Strategi Digital Marketing #19 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Bayu Perhotelan",
+      "namaProject": "SOP Front Office #20",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per20/800/600",
+      "deskripsiLengkap": "SOP Front Office #20 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Lala Perhotelan",
+      "namaProject": "Strategi Digital Marketing #21",
+      "deskripsiSingkat": "Strategi Digital Marketing untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": null,
+      "fotoProject": "https://picsum.photos/seed/per21/800/600",
+      "deskripsiLengkap": "Strategi Digital Marketing #21 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    },
+    {
+      "nama": "Vina Perhotelan",
+      "namaProject": "SOP Front Office #22",
+      "deskripsiSingkat": "SOP Front Office untuk keperluan proyek akhir dan studi kasus.",
+      "bekerja": "Grand Hyatt",
+      "fotoProject": "https://picsum.photos/seed/per22/800/600",
+      "deskripsiLengkap": "SOP Front Office #22 adalah proyek yang dikerjakan selama praktik/TA. Menggunakan pendekatan modern, dokumentasi teknis, dan prototipe fungsional. Dibuat untuk menunjukkan kemampuan dalam domain Perhotelan.",
+      "linkProject": "#"
+    }
+  ]
+}

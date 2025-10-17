@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Program Keahlian - SMKN 1 Dlanggu</title>
+    <link rel="stylesheet" href="/style.css" />
+    <script type="module" src="/src/jurusan.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="font-['Poppins',_sans-serif] bg-gray-50 text-gray-800">
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+  <nav class="container mx-auto px-4 py-2 flex justify-between items-center">
+    <a href="/" class="flex items-center space-x-3">
+      <img src="/assets/logo.png" alt="Logo Sekolah" class="h-12" />
+      <span class="text-xl font-bold text-gray-800">SMKN 1 Dlanggu</span>
+    </a>
+
+    <ul class="hidden md:flex items-center space-x-8 text-gray-600 font-medium">
+      <li class="relative">
+        <a href="profil.html" class="nav-link nav-link-dropdown flex items-center gap-1">
+          Profil
+        </a>
+        <div class="dropdown-panel absolute top-full left-0 mt-2 w-70 bg-white rounded-md shadow-lg p-2 transition-all duration-300 ease-in-out opacity-0 -translate-y-2 invisible">
+          <a href="profil.html#sejarah" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Sejarah</a>
+          <a href="profil.html#visi-misi" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Visi & Misi</a>
+          <a href="guru.html" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Guru</a>
+          <a href="fasilitas.html" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Fasilitas</a>
+          <a href="galeri.html" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Galeri</a>
+        </div>
+      </li>
+
+      <li class="relative">
+        <a href="jurusan.html" class="nav-link nav-link-dropdown flex items-center gap-1">
+          Jurusan
+        </a>
+        <div class="dropdown-panel absolute top-full left-0 mt-2 w-116 bg-white rounded-md shadow-lg p-2 transition-all duration-300 ease-in-out opacity-0 -translate-y-2 invisible">
+          <div class="grid grid-cols-2 gap-x-4">
+            <div>
+              <a href="/jurusan.html?id=rpl" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Rekayasa Perangkat Lunak</a>
+              <a href="/jurusan.html?id=tkj" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Teknik Komputer Jaringan</a>
+              <a href="/jurusan.html?id=dkv" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Desain Komunikasi Visual</a>
+            </div>
+            <div>
+              <a href="/jurusan.html?id=animasi" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Animasi</a>
+              <a href="/jurusan.html?id=kuliner" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Kuliner</a>
+              <a href="/jurusan.html?id=perhotelan" class="block px-4 py-2 text-lg text-gray-700 rounded hover:bg-indigo-50 hover:text-indigo-600">Perhotelan</a>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li><a href="berita.html" class="nav-link">Berita</a></li>
+      <li><a href="portofolio.html" class="nav-link">Portfolio</a></li>
+    </ul>
+    
+    <button class="hidden md:flex btn-animated group">
+      <span class="relative z-10">Contact Us</span>
+    </button>
+
+    <button id="hamburger-button" class="md:hidden text-gray-800 focus:outline-none">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+      </svg>
+    </button>
+  </nav>
+
+  <div id="mobile-menu" class="hidden md:hidden bg-white shadow-md">
+    <div class="relative">
+        <a href="profil.html" class="block py-3 px-4 text-lg text-gray-700 hover:bg-indigo-50 nav-link-dropdown-mobile">Profil</a>
+        <div class="dropdown-panel-mobile hidden pl-4">
+            <a href="profil.html#sejarah" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Sejarah</a>
+            <a href="profil.html#visi-misi" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Visi & Misi</a>
+            <a href="guru.html" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Guru</a>
+            <a href="fasilitas.html" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Fasilitas</a>
+            <a href="galeri.html" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Galeri</a>
+        </div>
+    </div>
+    <div class="relative">
+        <a href="jurusan.html" class="block py-3 px-4 text-lg text-gray-700 hover:bg-indigo-50 nav-link-dropdown-mobile">Jurusan</a>
+        <div class="dropdown-panel-mobile hidden pl-4">
+            <a href="/jurusan.html?id=rpl" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Rekayasa Perangkat Lunak</a>
+            <a href="/jurusan.html?id=tkj" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Teknik Komputer Jaringan</a>
+            <a href="/jurusan.html?id=dkv" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Desain Komunikasi Visual</a>
+            <a href="/jurusan.html?id=animasi" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Animasi</a>
+            <a href="/jurusan.html?id=kuliner" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Kuliner</a>
+            <a href="/jurusan.html?id=perhotelan" class="block py-2 text-md text-gray-600 hover:text-indigo-600">Perhotelan</a>
+        </div>
+    </div>
+    <a href="berita.html" class="block py-3 px-4 text-lg text-gray-700 hover:bg-indigo-50">Berita</a>
+    <a href="portofolio.html" class="block py-3 px-4 text-lg text-gray-700 hover:bg-indigo-50">Portfolio</a>
+    <div class="p-4">
+        <button class="w-full btn-animated group">
+            <span class="relative z-10">Contact Us</span>
+        </button>
+    </div>
+</div>
+</header>
+
+    <main>
+      <section class="bg-purple-600 text-white py-8">
+        <div class="container mx-auto px-4">
+          <h1 class="text-3xl font-bold">PROGRAM KEAHLIAN</h1>
+          <p id="breadcrumb" class="text-indigo-200 mt-1">
+            Home / Jurusan / Memuat...
+          </p>
+        </div>
+      </section>
+
+      <section id="content-jurusan" class="container mx-auto px-4 py-12">
+        <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
+          <aside class="lg:col-span-1">
+            <div class="bg-white p-4 rounded-lg shadow-md sticky top-28">
+              <h3 class="text-lg font-bold mb-4 border-b pb-2">
+                Semua Jurusan
+              </h3>
+              <ul id="jurusan-list-sidebar" class="space-y-1">
+                <li>
+                  <a
+                    href="#"
+                    class="block px-3 py-2 rounded-md bg-gray-200 animate-pulse"
+                    >Memuat...</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="block px-3 py-2 rounded-md bg-gray-200 animate-pulse"
+                    >Memuat...</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </aside>
+
+          <div class="lg:col-span-3 bg-white p-8 rounded-lg shadow-md">
+            <img
+              id="gambar-utama"
+              src="https://placehold.co/800x400/e2e8f0/374151?text=Memuat+Gambar..."
+              alt="Foto utama jurusan"
+              class="w-full h-auto object-cover rounded-lg mb-6"
+            />
+
+            <h2 id="nama-jurusan" class="text-3xl font-bold text-gray-800 mb-4">
+              Memuat Nama Jurusan...
+            </h2>
+
+            <div class="space-y-6">
+              <div>
+                <h3 class="text-xl font-semibold mb-2 text-purple-600">
+                  Deskripsi
+                </h3>
+                <p id="deskripsi-jurusan" class="text-gray-600 leading-relaxed">
+                  Memuat deskripsi lengkap tentang jurusan...
+                </p>
+              </div>
+              <div>
+                <h3 class="text-xl font-semibold mb-2 text-purple-600">
+                  Kompetensi Keahlian
+                </h3>
+                <ul
+                  id="keahlian-list"
+                  class="space-y-2 list-disc list-inside text-gray-600"
+                >
+                  <li>Memuat keahlian...</li>
+                </ul>
+              </div>
+            </div>
+            <section id="guru-section" class="mt-10 pt-6 border-t">
+              <h3 class="text-2xl font-bold mb-6 text-gray-800">
+                Tenaga Pendidik
+              </h3>
+              <div
+                id="guru-grid"
+                class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6 text-center"
+              ></div>
+            </section>
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="content-error"
+        class="container mx-auto px-4 py-12 text-center hidden"
+      >
+        <h1 class="text-4xl font-bold text-red-600">Jurusan Tidak Ditemukan</h1>
+        <p class="text-gray-600 mt-4">
+          Maaf, program keahlian yang Anda cari tidak ada.
+        </p>
+        <a
+          href="/"
+          class="mt-6 inline-block bg-indigo-600 text-white font-bold py-2 px-4 rounded hover:bg-purple-600"
+          >Kembali ke Beranda</a
+        >
+      </section>
+    </main>
+
+    <footer class="bg-gray-900 text-white">
+        <div class="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-4 gap-8">
+            <div class="md:col-span-2">
+                <h3 class="text-2xl font-bold mb-2">SMKN 1 Dlanggu</h3>
+                <p class="text-gray-400 max-w-md">Lembaga pendidikan vokasi yang berdedikasi untuk mencetak lulusan yang kompeten, berkarakter, dan siap menghadapi tantangan global.</p>
+            </div>
+            <div>
+                <h4 class="font-semibold mb-4">Navigasi</h4>
+                <ul class="space-y-2 text-gray-400">
+                    <li><a href="profil.html" class="hover:text-white">Profil</a></li>
+                    <li><a href="jurusan.html" class="hover:text-white">Jurusan</a></li>
+                    <li><a href="#" class="hover:text-white">Berita</a></li>
+                    <li><a href="portofolio.html" class="hover:text-white">Portfolio</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="font-semibold mb-4">Hubungi Kami</h4>
+                <p class="text-gray-400">dummy@smkn1dlanggu.sch.id</p>
+                <p class="text-gray-400">Jl Raya Dlanggu No. X</p>
+            </div>
+        </div>
+        <div class="border-t border-gray-700">
+            <div class="container mx-auto px-6 py-4 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
+                <p>&copy; 2025 SMKN 1 Dlanggu. All Rights Reserved.</p>
+                <div class="flex space-x-4 mt-4 md:mt-0">
+                    <a href="#" class="hover:text-white">Facebook</a>
+                    <a href="#" class="hover:text-white">Instagram</a>
+                    <a href="#" class="hover:text-white">YouTube</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="/src/animation.js"></script>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/profil", "destination": "/profil.html" },
+    { "source": "/jurusan", "destination": "/jurusan.html" },
+    { "source": "/portofolio", "destination": "/portofolio.html" },
+    { "source": "/berita", "destination": "/berita.html" },
+    { "source": "/fasilitas", "destination": "/fasilitas.html" },
+    { "source": "/guru", "destination": "/guru.html" },
+    { "source": "/galeri", "destination": "/galeri.html" }
+  ]
+}

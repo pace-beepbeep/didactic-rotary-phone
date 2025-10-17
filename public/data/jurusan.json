@@ -1,0 +1,170 @@
+{
+  "rpl": {
+    "nama": "Rekayasa Perangkat Lunak",
+    "deskripsi": "Jurusan Rekayasa Perangkat Lunak (RPL) mempersiapkan siswa untuk menjadi pengembang perangkat lunak yang andal. Siswa akan belajar tentang algoritma, struktur data, pengembangan aplikasi web, mobile, dan desktop, serta manajemen basis data. Kurikulum kami dirancang untuk mengikuti tren industri terkini.",
+    "gallery": [
+      "https://placehold.co/800x500/e2e8f0/374151?text=RPL+1",
+      "https://placehold.co/800x500/e2e8f0/374151?text=RPL+2",
+      "https://placehold.co/800x500/e2e8f0/374151?text=RPL+3"
+    ],
+    "keahlian": [
+      "Pemrograman Berorientasi Objek",
+      "Pengembangan Web (Front-end & Back-end)",
+      "Pengembangan Aplikasi Mobile",
+      "Manajemen Basis Data (SQL & NoSQL)",
+      "UI/UX Design Principles"
+    ],
+    "guru": [
+      {
+        "nama": "Andi Susanto, S.Kom.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+1"
+      },
+      {
+        "nama": "Budi Hartono, M.T.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+2"
+      },
+      {
+        "nama": "Citra Lestari, S.Pd.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+3"
+      },
+      {
+        "nama": "Dewi Anggraini, S.Kom.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+4"
+      },
+      {
+        "nama": "Eko Prasetyo, M.Kom.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+5"
+      }
+    ]
+  },
+  "tkj": {
+    "nama": "Teknik Komputer & Jaringan",
+    "deskripsi": "Siswa di jurusan Teknik Komputer dan Jaringan (TKJ) akan mendalami dunia infrastruktur teknologi informasi. Materi mencakup perakitan komputer, instalasi sistem operasi, desain dan administrasi jaringan (LAN, WAN), keamanan siber, dan teknologi server. Lulusan siap menjadi teknisi jaringan atau administrator sistem yang kompeten.",
+    "gallery": [
+      "https://placehold.co/800x500/e2e8f0/374151?text=TKJ+1",
+      "https://placehold.co/800x500/e2e8f0/374151?text=TKJ+2",
+      "https://placehold.co/800x500/e2e8f0/374151?text=TKJ+3"
+    ],
+    "keahlian": [
+      "Administrasi Jaringan Komputer",
+      "Keamanan Siber (Cybersecurity)",
+      "Manajemen Server (Linux & Windows)",
+      "Teknologi Routing & Switching",
+      "Cloud Computing"
+    ],
+    "guru": [
+      {
+        "nama": "Fajar Nugroho, S.T.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+A"
+      },
+      {
+        "nama": "Gita Permata, M.T.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+B"
+      },
+      {
+        "nama": "Hadi Wijaya, S.Kom.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+C"
+      }
+    ]
+  },
+  "dkv": {
+    "nama": "Desain Komunikasi Visual",
+    "deskripsi": "Jurusan Desain Komunikasi Visual (DKV) adalah wadah bagi siswa kreatif yang ingin berkarir di industri visual. Pembelajaran meliputi dasar-dasar desain grafis, tipografi, fotografi, videografi, ilustrasi digital, dan branding. Siswa didorong untuk menghasilkan karya visual yang komunikatif dan estetis.",
+    "gallery": [
+      "https://placehold.co/800x500/e2e8f0/374151?text=DKV+1",
+      "https://placehold.co/800x500/e2e8f0/374151?text=DKV+2",
+      "https://placehold.co/800x500/e2e8f0/374151?text=DKV+3"
+    ],
+    "keahlian": [
+      "Desain Grafis & Branding",
+      "Ilustrasi Digital",
+      "Fotografi & Videografi",
+      "Motion Graphics",
+      "Desain UI/UX"
+    ],
+    "guru": [
+      {
+        "nama": "Indah Sari, S.Ds.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+X"
+      },
+      {
+        "nama": "Joko Susilo, M.Sn.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+Y"
+      },
+      {
+        "nama": "Kartika Dewi, S.Sn.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+Z"
+      },
+      {
+        "nama": "Lukman Hakim, M.Ds.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+W"
+      }
+    ]
+  },
+  "animasi": {
+    "nama": "Animasi",
+    "deskripsi": "Jurusan Animasi memfokuskan pada seni menciptakan ilusi gerak. Siswa akan belajar seluruh proses produksi animasi, mulai dari pra-produksi (storyboard, desain karakter), produksi (animasi 2D & 3D), hingga pasca-produksi (compositing, editing). Lulusan dapat berkarir sebagai animator, modeler 3D, atau visual effects artist.",
+    "gallery": [
+      "https://placehold.co/800x500/e2e8f0/374151?text=Animasi+1"
+    ],
+    "keahlian": [
+      "Animasi 2D & 3D",
+      "Modeling & Sculpting Karakter 3D",
+      "Storyboard & Konsep Art",
+      "Visual Effects (VFX)",
+      "Rigging Karakter"
+    ],
+    "guru": [
+      {
+        "nama": "Indah Sari, S.Ds.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+X"
+      },
+      {
+        "nama": "Joko Susilo, M.Sn.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+Y"
+      },
+      {
+        "nama": "Kartika Dewi, S.Sn.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+Z"
+      },
+      {
+        "nama": "Lukman Hakim, M.Ds.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+W"
+      },
+      {
+        "nama": "PP, M.Ds.",
+        "foto": "https://placehold.co/200x200/e2e8f0/374151?text=Guru+W"
+      }
+    ]
+  },
+  "kuliner": {
+    "nama": "Kuliner",
+    "deskripsi": "Jurusan Kuliner (Tata Boga) adalah tempat bagi para calon koki dan pengusaha kuliner masa depan. Siswa akan mempelajari teknik memasak masakan Indonesia dan internasional, patiseri dan panjangan (bakery & pastry), manajemen dapur, hingga kewirausahaan di bidang kuliner.",
+    "gallery": [
+      "https://placehold.co/800x500/e2e8f0/374151?text=Kuliner+1"
+    ],
+    "keahlian": [
+      "Masakan Kontinental & Oriental",
+      "Pastry & Bakery",
+      "Manajemen Dapur & Restoran",
+      "Food & Beverage Service",
+      "Higiene & Sanitasi Makanan"
+    ],
+    "guru": []
+  },
+  "perhotelan": {
+    "nama": "Perhotelan",
+    "deskripsi": "Jurusan Perhotelan membekali siswa dengan keterampilan yang dibutuhkan dalam industri hospitality. Materi pelajaran mencakup layanan front office (kantor depan), housekeeping (tata graha), laundry, serta food & beverage service. Siswa dipersiapkan untuk memberikan pelayanan prima kepada tamu.",
+    "gallery": [
+      "https://placehold.co/800x500/e2e8f0/374151?text=Hotel+1"
+    ],
+    "keahlian": [
+      "Front Office & Reservasi",
+      "Housekeeping Management",
+      "Food & Beverage Service",
+      "Laundry Operation",
+      "Komunikasi & Pelayanan Tamu"
+    ],
+    "guru": []
+  }
+}
